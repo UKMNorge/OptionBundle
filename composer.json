@@ -13,11 +13,8 @@
 			"name": "Marius Mandal",
 			"email": "marius.mandal@ukmmedia.no",
 			"role": "Developer"
-		},
-		
+		}
 	],
-	"require": {
-	},
 	"autoload": {
 		"psr-4": {
 			"UKMNorge\\UKMOptionBundle\\": ""
