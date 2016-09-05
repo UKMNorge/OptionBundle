@@ -1,0 +1,27 @@
+{
+	
+	"name": "ukmnorge/ukmoptionbundle",
+	"description": "Simple option service for UKM services",
+	"homepage": "http://github.com/UKMNorge/UKMOptionBundle",
+	"authors": [
+		{
+			"name": "Asgeir Stavik Hustad",
+			"email": "asgeirsh@ukmmedia.no",
+			"role": "Developer"
+		},
+		{
+			"name": "Marius Mandal",
+			"email": "marius.mandal@ukmmedia.no",
+			"role": "Developer"
+		},
+		
+	],
+	"require": {
+	},
+	"autoload": {
+		"psr-4": {
+			"UKMNorge\\UKMOptionBundle\\": ""
+		}
+	}
+
+}

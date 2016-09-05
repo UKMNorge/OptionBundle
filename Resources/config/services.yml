@@ -1,0 +1,4 @@
+services:
+    UKMoption:
+        class: UKMNorge\OptionBundle\Service\OptionService
+        arguments: ["@doctrine"]
