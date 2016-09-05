@@ -1,8 +1,8 @@
 {
 	
-	"name": "ukmnorge/ukmoptionbundle",
+	"name": "ukmnorge/optionbundle",
 	"description": "Simple option service for UKM services",
-	"homepage": "http://github.com/UKMNorge/UKMOptionBundle",
+	"homepage": "http://github.com/UKMNorge/OptionBundle",
 	"authors": [
 		{
 			"name": "Asgeir Stavik Hustad",
@@ -17,7 +17,7 @@
 	],
 	"autoload": {
 		"psr-4": {
-			"UKMNorge\\UKMOptionBundle\\": ""
+			"UKMNorge\\OptionBundle\\": ""
 		}
 	}
 
