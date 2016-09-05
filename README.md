@@ -7,12 +7,12 @@
    ```composer
    "repositories": [
         {
-            "url": "https://github.com/UKMNorge/UKMDipBundle.git",
+            "url": "https://github.com/UKMNorge/OptionBundle.git",
             "type": "git"
         }
     ],
     "require": {
-    	"ukmnorge/ukmdipbundle": "dev-master"
+    	"ukmnorge/optionbundle": "dev-master"
     }
 
    ``` 
